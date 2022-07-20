@@ -1,0 +1,10 @@
+name: DeathGenie
+version: 0.0.3
+main: cat.death.Main
+author: RiverChiang
+authors: [ Rivercat, 12345cat ]
+api-version: 1.17
+commands:
+  dg:
+    description: 開啟DeathGenie管理介面
+    usage: /<command>

@@ -1,0 +1,17 @@
+prefix: "§f[§6防噴小精靈§f]"
+respawnXP: 20
+GUItitle: "§c防噴小精靈-管理介面"
+GUIenable: "點此開啟/關閉房噴小精靈"
+GUIlookup: "查詢"
+GUIbuy: "購買小精靈"
+Buy_sues: " 您已成功購買小一隻精靈"
+Buy_fail: " 擬的等級不夠呢 請滾回去吧XD"
+unbay_sues: " 您怎麼這麼狠心呢主人(被拖走QAQ"
+unbay_fail: " 你就是沒有，是要解雇誰 動下腦~"
+GG: " 您沒有精靈跟隨了 你的背包散落一地"
+GG_not_enable: " 您沒有開啟防噴小精靈 你的背包散落一地"
+GG_NOT_cooldown: " 您的精靈還在休息喔qq 你的背包散落一地"
+DEF_time: 4
+Max_Buy_XP: 40
+time_Plus_XP: 2
+
